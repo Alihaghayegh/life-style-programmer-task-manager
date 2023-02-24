@@ -6,6 +6,6 @@ this is a task manager for life style programmers
 ### list of tasks :
 
 - [x] start project
-- [ ] set up front-end in pyqt
+- [x] set up front-end in pyqt
 - [ ] convert .ui file to python code
 - [ ] recieve text from inputs
