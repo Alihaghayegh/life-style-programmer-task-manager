@@ -7,5 +7,7 @@ this is a task manager for life style programmers
 
 - [x] start project
 - [x] set up front-end in pyqt
-- [ ] convert .ui file to python code
+- [x] convert .ui file to python code
 - [ ] recieve text from inputs
+- [ ] add items to list
+- [ ] add items to db at same time with list
