@@ -263,6 +263,25 @@
      </property>
     </item>
    </widget>
+   <widget class="QLabel" name="footer">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>590</y>
+      <width>341</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">#footer {
+	color: white;
+	padding-left: 5px;
+}</string>
+    </property>
+    <property name="text">
+     <string>Created by Ali Haghayegh 2023  github.com/AliHaghayegh</string>
+    </property>
+   </widget>
   </widget>
  </widget>
  <resources/>
